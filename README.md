@@ -6,8 +6,8 @@
   while (1)
     {
         printf("\n\rThe ADC Value is: %i   ",ADCC_GetSingleConversion(POT));
-    }```
-    
+    }
+```
 
 ### FrequencyCounter
 ```C
@@ -202,4 +202,5 @@ void main() {
         while (1) {}                              // endless loop (until power is off)
       }
    }
-}```
+}
+```
